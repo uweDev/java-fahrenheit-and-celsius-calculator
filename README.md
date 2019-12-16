@@ -2,6 +2,9 @@
 
 This Fahrenheit and Celsius calculator can calculate Fahrenheit in Celsius or Celsius in Fahrenheit. For usability, the buttons for wrap and the empty text fields were each designed in a different color. After a conversion, the formula used is output.
 
+<img src="https://raw.githubusercontent.com/uweDev/java-fahrenheit-and-celsius-calculator/master/calculatorScreenshot0.png"> 
+<img src="https://raw.githubusercontent.com/uweDev/java-fahrenheit-and-celsius-calculator/master/calculatorScreenshot1.png">
+
 ### Requirements:
 * Java version 8 or higher.
 
